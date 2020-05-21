@@ -54,7 +54,7 @@ Codigo en JSON
     }
 ]
 ```
-Codigo en JSON
+Codigo en Javascript
 ```Javascript
 function sayHello() {
     console.log('Hello world!');
