@@ -34,3 +34,29 @@ Underline 2
 
 - [Esto es un link en markdown](http://google.com)
 - [Esto es un link al index](index.html)
+
+# Imagenes
+![Logo Github](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+
+# Code Snippets
+Codigo en JSON
+```JSON
+[
+    {
+        "title": "apples",
+        "count": [12000, 20000],
+        "description": {"text": "...", "sensitive": false}
+    },
+    {
+        "title": "oranges",
+        "count": [17500, null],
+        "description": {"text": "...", "sensitive": false}
+    }
+]
+```
+Codigo en JSON
+```Javascript
+function sayHello() {
+    console.log('Hello world!');
+}
+```
