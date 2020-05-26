@@ -60,3 +60,17 @@ function sayHello() {
     console.log('Hello world!');
 }
 ```
+
+# Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Maxi   | Burgos   | 123456    |
+| Thomas | Thompson | 654321    |
+
+# Citas
+ Esto es un texto referente a una cita que pondepremos debajo:
+ > Esto es una cita.
+
+ Esta es otro texo que no se relaciona con la cita anterior:
+ > Esto es otra cita.
+ 
