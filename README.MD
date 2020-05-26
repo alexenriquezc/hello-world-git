@@ -1,3 +1,5 @@
+# Version del curso
+Version Actual: v1.2.2
 # Cabeceras
 # Cabecera H1
 ## Cabecera H2
@@ -73,4 +75,23 @@ function sayHello() {
 
  Esta es otro texo que no se relaciona con la cita anterior:
  > Esto es otra cita.
+
+ # Lineas Divisoras
+ Esto es un texto que sera dividido por guiones mdios.
+
+ ---
+ Esto es otro texto dividido por asteriscos.
+
+ ***
+
+ Este es otro texto dividido por guiones bajos
  
+ ___
+
+ # Saltos de linea
+ Esto es nuestro primer parrafo.
+
+ Esto es nuestro segundo parrafo.
+
+ Esto es nuestro Tercer parrafo.
+ - Lista
